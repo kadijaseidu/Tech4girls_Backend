@@ -1,0 +1,6 @@
+To modify the permission of a file so that only the owner can read and write to it,
+While the group and others can only read, this command is used
+Chmod 644 <file name>
+‘6’ represents read and write, which is for the owner
+‘4’ represent read only, which represents the group permission to read
+‘4’ indicate read only, which indicate the permission of others to also read
