@@ -1,0 +1,7 @@
+the string representation of the read file permission is displayed when you 
+use the command 'ls -l <file name> 
+the the permissions displays as '-rw-r--r--
+the first character '-' stands for a file 
+'rw' stands for read and write and it indicates the owners permission
+'r--' stands for read and it indicates the groups permission to read the file.
+'r--' stands for read and it indicates the others permission to read the file.
