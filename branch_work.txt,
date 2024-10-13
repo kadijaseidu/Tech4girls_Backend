@@ -1,0 +1,12 @@
+To create a branch, publish it, and switch to  Github, 
+these are the following steps you should take
+To create a branch, the command is git branch <branch name>
+After creating the branch, you can switch to the branch using the command;
+‘Git checkout’ <branch name>
+After switching to your new branch, and making all your necessary changes,
+You then use the command; ‘git add . ‘ to add all the changes.
+You then run the command; ‘git commit -m’ “commit message”  
+After committing, to push the new branch to Github, 
+this command is used; git push origin <branch name>
+After pushing the changes to Github you then go to your 
+Github repository in the web browser to see the new branch.
