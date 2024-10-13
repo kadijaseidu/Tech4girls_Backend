@@ -1,0 +1,12 @@
+creating a directory called Backend_Projects and creating two subdirectories called ProjectA and ProjectB,
+i used the command, 'cd ~' to move to my home directory. 
+in my home directory, i entered the command; 'cd Tech4girls_Backed' which takes me to the parent directory.
+while in the parent directory, i moved into the subdirectory called Github_Commands, 
+using the command; cd Github_Commands, while in Github_Commands, i created a directory called Backend_Projects,
+using the command; mkdir Backend_Projects, i then moved to the home directory using the command; 'cd ~' 
+from the parent directory, i entered the command; 'cd Tech4girls_Backend/Github_Commands/Backend_Projects' to  move
+to the directory Backend_Projects. after moving to the subdirectory 'Backend_Projects', i then created a directory called ProjectA
+using the command; 'mkdir ProjectA. after creating another subdirectory, i moved into the home directory 
+using the command; 'cd ~' from the home directory, 
+i entered a command; ' cd Tech4girls_Backend/Github_Commands/Backend_Projects/ProjectA to entered into a subdirectory called ProjectA,
+ inside the directory 'ProjectA' i created another directory called ProjectB, using the command; 'mkdir ProjectB'.
