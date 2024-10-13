@@ -1,0 +1,26 @@
+In linux,  file ownership determine who owns a  file or directory and what permissions the owner has.
+File modes is used to represent a combination of three types of permissions. 
+The ownership of a file is grouped into three categories;
+Owner: the owner is the one who owns or created the file. they have certain permissions that can be set for the file.
+Group: the set are a group of users that can access the file or directory based on the level of permission they are given.
+Others: they are the users that are in the system who do not own the file nor belong to the group.
+There are three types of permissions;
+Read (r): it permits the content of the file to be viewed, it allows listing the files within directories.
+Write (w): it allows the content of the file to be modified, it also allows creating and deleting files within directories.
+Execute (x): it gives permission to run the file, it also allows accessing files within directories.
+The command used to view the permission of a file is  ls -l <file name>
+Which displays like this ‘-rwx-rw-r- - 1 Kadi  staff 0 Oct 11 15:42 ownership.txt
+Here, ‘-rwx-rw-r- - shows the permissions.
+'1 kadi' means kadi is the only owner of the file.
+'staff' indicates the group name.
+'ownership.txt' is the file name.
+The first character ‘-‘ stands for the file
+‘rwx’ is the owners permission, which stands for read, write and execute.
+‘rw’ is the groups permission, which indicates read and write.
+‘r - -‘ is the permission for others, which indicate read only.
+If it is a directory the permission is displayed like this;
+‘drwx-rw-r - -‘ where by the ‘d’ stands for directory.
+The modes representation of 
+Read(r) is 4
+Write(w) is 2
+Execute(x)  is 1
