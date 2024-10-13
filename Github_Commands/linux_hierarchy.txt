@@ -1,0 +1,8 @@
+seven directories found in the root directory are as follows;
+i. bin: it stores linux commands. it contains executable file and programs like, cp and mv.
+ii. boot: it keeps files that is needed for booting the system.
+iii. dev: it contains device files that represent the hardware components and peripherials.
+iv. etc:it stores configuration files and settings for the system and applications.
+v. home: it stores directories for every user.this is where your personal files are stored.
+vi. lib: it stores library files that are needed by the system and applications.
+vii. usr: it stores softwares that you have installed.

@@ -1,0 +1,4 @@
+In a linux system, the three groups of users are:
+Owner: the owner is the one who owns or created the file. they have certain permissions that can be set for the file.
+Group: the set are a group of users that can access the file or directory based on the level of permission they are given.
+Others: they are the users that are in the system who do not own the file nor belong to the group.
