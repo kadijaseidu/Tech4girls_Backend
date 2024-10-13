@@ -1,0 +1,6 @@
+The home directory is stores documents which contains your personal files and folders, downloads which contains files 
+downloaded from the internet, pictures, music, and desktop. It also store configuration files like .bashrc. The home directory 
+stores directories for every user and when you input the command "cd home" it displays your user name. The root 
+directory on the other hand is the top-level directory in the file system. Every file and folder in the system can be 
+traced back to the root system. It is the mother of all the directories and to navigate through the root directory,
+The command "cd /" is used.
