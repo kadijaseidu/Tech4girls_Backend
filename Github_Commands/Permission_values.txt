@@ -1,0 +1,4 @@
+the numeric values that represents read, write, and execute permissions in linux are as follows
+read(r) is 4
+write(w) is 2
+execute(x) is 1
