@@ -1,0 +1,4 @@
+branching in git allows developers to create separate branches when working on a project. Every developer can make changes
+to their own separate branch without affecting the main branch, which enables the main branch to be stable and free 
+from bugs as well as conflicts. Different collaborators can work on their own branches and when they are done, they 
+can now merge their work to the main branch after the work has been reviewed and approved by the other collaborators.
