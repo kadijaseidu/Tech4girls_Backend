@@ -1,0 +1,12 @@
+the output of the command 'ls -l script.sh' gives details of the information about the file 'script.sh'.
+'-rw-r--r--' represents the file permissions.
+'-' indicates its a file.
+'rw-' indicates the permission of the user. which means the user can 'r' read and 'w' write but can not '-' execute the file.
+'r--' indicates the permission of the group. 'r' means the group can read the file, '-' the group cannot write, and '-' means the group cannot execute the file.
+'r--' indicates permission for others? meaning they can also 'r' read, but cannot '-' write and '-' execute the file.
+'1' indicates the number of hard links to the file.
+'userhacsa' is the file owner's username.
+'userhacsa' the second 'userhacsa' represent the group name.
+'70' represents the file's size in byte.
+'Oct 14 10:00' it shows the date and time the file was last modified.
+'script.sh' is the name of the file. 
