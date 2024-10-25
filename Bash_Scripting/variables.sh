@@ -1,4 +1,3 @@
 #!/bin/bash
-#this echoes name
-name="Khadijah Seidu"
+name="khadijah"
 echo $name

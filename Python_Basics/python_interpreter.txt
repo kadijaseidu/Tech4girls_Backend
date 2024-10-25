@@ -1,0 +1,11 @@
+steps to open the python interpreter on my system.
+firstly, i will open my terminal on vs code 
+then, type pythone3 and then press on the enter key after which the python interpreter opens.
+
+example of using the python interpreter to add two numbers.
+you can simply input any two numbers with the plus sign like; 7+14 and press the enter key and you will get your desired result. Or
+you can make an input like this; by typing,
+x=7 then press the enter key
+y=14 press the enter key
+print(x+y)
+press enter to see the result, which is 21
