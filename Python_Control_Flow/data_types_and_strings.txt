@@ -1,0 +1,51 @@
+#explanations of the data types in python along with some examples;
+
+int: it is a data type that represent integer values, they are whole numbers  that can be either zero, positive, or negative. they do not include fractional or decimal parts.
+example: 'numbers = 4, -6'
+
+float: it is a data type with numbers containing a decimal point.
+example: 'x = 2.3'
+
+str: it represent strings. they are a sequence of characters that are inside quotes, and could include letters, numbers, symbols and spaces.
+example: 'school = "UPSA"'
+
+list: it represents a number of items that can be of various forms, they are ordered and are kept in square brackets [].
+examples: 'names = ["Alex", "Nadia", "Hamdiya"]'
+
+tuple:it is a data type that is immutable(cannot be changed or modified) and they are kept in parenthesis ().
+example: 'items = (24, 50, 31)'
+
+set: they contain values that are unordered and they do not have duplicates. they are enclosed in curly braces {}.
+example: 'set = {2, 3, 4, 7}'
+
+
+#demostrating the use of the string method;
+upper(): it converts all characters in the string to uppercase.
+example: item = "hello world"
+print(item.upper())
+#result: "HELLO WORLD"
+
+lower(): it converts all characters in the string to lowercase.
+example: item = "HELLO WORLD"
+print(item.lower())
+#result: "hello world"
+
+replace(): it replaces a specific substring with another substring in a string.
+example: item = "I love coding"
+print(item.replace("coding", "reading"))
+#result: "I love reading"
+
+split(): it splits the string into a list based on a specific delimiter.
+example: item = "hello world"
+print(item.split())
+result: ["hello", "world"]
+
+join(): it join the elements of a list into a single string with a specified separator.
+example: items = ["hello", "friend"]
+print(" ".join(items))
+result: "hello friend"
+
+find(): it returns the index of the first occurrence of a specified string, and if it is not found, it returns to -1.
+example: items = "hello friend"
+print(items.find("friend"))
+result is: 6
