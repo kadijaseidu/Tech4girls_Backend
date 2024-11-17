@@ -33,8 +33,9 @@ class BankAccount:
         return cls.bank_name
     
 """Demostrating instances for the BankAccount class"""
-
 bankaccount1 = BankAccount("Linda")
+
+"""call static method to print the bank policy"""
 bankaccount1.bank_policy()
 bankaccount1.deposit(1000)
 bankaccount1.withdraw(500)
@@ -48,5 +49,5 @@ bankaccount2 = BankAccount("Alex")
 bankaccount2.bank_policy()
 bankaccount2.deposit(800)
 bankaccount2.withdraw(300)
+"""printing and calling the class method to get the bank name"""
 print(bankaccount2.get_bank_name())
-
