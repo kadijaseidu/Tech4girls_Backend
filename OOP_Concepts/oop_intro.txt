@@ -1,0 +1,15 @@
+
+Object-Oriented programming is a model that uses objects to represent both data and methods to manipulate that data. 
+It is designed to model real-world entities and their interactions, which makes it easier to design and manage complex software systems.
+The four main principles of object-oriented programming includes; Encapsulation, Abstraction, Inheritance, and Polymorphism.
+Encapsulation involves building the data (attributes) and methods (functions) that operate on the data into a single unit, which is known as a class. It restrict direct access to some of an object’s components, which help prevents unintended interference and misuse. 
+For instance;  When you use a bank account, you only interact with it through the user interface to deposit or withdraw money. The internal processes of how transactions are handled and recorded are hidden from you.
+
+Abstraction: It involves simplifying complex systems by hiding unnecessary details and exposing only the essential features. It allows programmers to work with higher-level concepts without needing to understand all the underlying complexities.
+For instance;  A remote control for a television allows users to perform various functions like changing channels and adjusting the volume without needing to know how the television processes these commands internally.
+
+Inheritance: it allows a new class (childclass/subclass) to inherit attributes and methods from an existing class (parentclass/superclass). It is also free to define new methods and attributes of its own. For instance, an ‘Employee’ class can be a parent class, while a ‘Manager’ can be a child class that inherits common properties like ’name’ and ‘pay’. Also when it comes to families, children often inherit physical traits from their parents, like eye color or hair type as well as having traits like hair texture.
+
+Polymorphism: it allows objects of different classes to be treated as objects of a common superclass. It allows methods to do different things based on the object it is acting upon. For instance;  a method ‘make_sound()’ can be defined in a superclass ‘Animal’, and subclasses like ‘Dog’ and ‘Cat’ can implement this method differently, although they all have a method of producing sound. For example, a dog barks, and a cat meows.
+
+Object-oriented programming is beneficial for software developers because it makes code more modular, easier to maintain, and scalable. By organizing codes into classes and objects, developers can manage complexity better and make changes without affecting other parts of the system. Also, Object-Oriented Programming promotes code reuse through inheritance and abstraction, saving time and reducing errors. For instance; a ‘smartphone’ class that encapsulates details like brand and model, with methods for calling and texting. Also, when you create a class for a ‘User’ that handles authentication and profile management, the class can be used in multiple applications without rewriting the code.
