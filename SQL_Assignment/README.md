@@ -26,7 +26,7 @@ This script creates a `Posts` table and establishes a **one-to-many** relationsh
 - Creating a table with a foreign key.
 - Establishing a one-to-many relationship between tables.
 
-## 3. Creating Many-to-Many Relationships [question3.sql]((https://github.com/kadijaseidu/Tech4girls_Backend/blob/main/SQL_Assignment/question3.sql)).
+## 3. Creating Many-to-Many Relationships [question3.sql](https://github.com/kadijaseidu/Tech4girls_Backend/blob/main/SQL_Assignment/question3.sql).
 
 ### Purpose:
 This script creates a `Courses` table and an intermediate `User_Courses` table to establish a **many-to-many** relationship between `Users` and `Courses`.
